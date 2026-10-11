@@ -1,0 +1,7 @@
+{
+  "uuid": "openclaw-desktop-pulse@progretech.com",
+  "name": "OpenClaw Desktop Pulse",
+  "description": "A quiet, animated GNOME wallpaper overlay driven by local OpenClaw activity metadata.",
+  "shell-version": ["50"],
+  "version": 1
+}

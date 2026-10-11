@@ -1,0 +1,5 @@
+.oc-pulse { background-color: transparent; }
+.oc-pulse-ring { border: 2px solid #8092ad; border-radius: 9999px; background-color: rgba(8, 15, 30, 0.015); }
+.oc-pulse-ring-1 { border-width: 3px; }
+.oc-pulse-ring-2 { border-width: 5px; }
+.oc-pulse-label { font-size: 12px; font-weight: 700; text-shadow: 0 0 8px rgba(0, 0, 0, 0.9); }
